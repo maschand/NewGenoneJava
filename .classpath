@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CustomCoder/src"/>
+	<classpathentry kind="lib" path="CustomCoder/dist/CustomCoder.jar"/>
+	<classpathentry kind="lib" path="CustomCoder/dist/lib/interface.jar"/>
+	<classpathentry kind="lib" path="CustomCoder/dist/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="CustomCoder/dist/lib/json-simple-2.3.0.jar"/>
+	<classpathentry kind="lib" path="CustomCoder/dist/lib/tomcat-servlet-api-9.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/interface.jar"/>
+	<classpathentry kind="lib" path="lib/java-json.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-servlet-api-9.0.4.jar"/>
+	<classpathentry kind="output" path="CustomCoder/build/classes"/>
+</classpath>
